@@ -1,9 +1,9 @@
 # ReactApp-ColorsApp
-**Course Lesson: The Modern React Bootcamp (Hooks, Context, NextJS, Router)
-From the teacher: Colt Steele
-Plataform: Udemy**
+### Course Lesson: The Modern React Bootcamp (Hooks, Context, NextJS, Router)
+### From the teacher: Colt Steele
+### Plataform: Udemy**
 
-**Video: https://vimeo.com/675310813/459f04314e
+### Video: https://vimeo.com/675310813/459f04314e
 
 # libraries used:
 ** npm install --save react-router-dom  
